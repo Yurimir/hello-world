@@ -1,2 +1,2 @@
 # hello-world
-Just the first repository.
+There is nothing interesting here, move along..
